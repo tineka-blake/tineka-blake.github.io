@@ -60,6 +60,51 @@ for the JavaScript code in this tag.
 </script>
 </head>
 <body>
+<style>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-align: justify;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #DCDCDC;
+}
+
+.active {
+  background-color: #00e673;
+}
+
+</style>
+</head>
+
+<body>
+
+<ul>
+<li><a href="test.html">Home</a></li>
+<li><a href="lets-explore.html"> Children </a></li>
+<li><a class="active" href="dance-fit.html"> Adults </a></li>
+<li style="float:right"><a>Tineka Blake</a></li>
+</ul>
+
 <div id="content">
 
 <div class="figure">
