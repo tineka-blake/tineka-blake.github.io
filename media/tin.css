@@ -1,21 +1,72 @@
 #content {
-  max-width: 900px;
-  margin: auto;
+    max-width: 1070px;
+    margin: auto;
+    font-family:arial;
+    text-align: justify;
+    font-size: 17px;
+
 }
+
+#content h2 {
+    text-align: center;
+    color: gray;
+}
+
 #tinImage {
     float: left;
     padding-right: 50px;
 }
-p {
-    line-height: 20px; /* 4px +12px + 4px */
-    font-family:arial
-}
+
 .title  { text-align: center;
 	  font-family:arial
-          margin-bottom: .2em; }
+                          margin-bottom: .2em; }
 
 .subtitle { text-align: center;
             font-size: medium;
 	    font-family:arial
-            font-weight: bold;
+                            font-weight: bold;
             margin-top:0; }
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#navbar li {
+    float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:arial;
+}
+
+#video-frame {
+    text-align: center;
+}
+
+.active {
+    background-color: #00e673;
+}
+
+.sign {
+    float: right !important;
+}
+
+p.signature {
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#myVideo {
+    width: 60%;
+}
