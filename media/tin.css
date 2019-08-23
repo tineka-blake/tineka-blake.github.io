@@ -4,17 +4,20 @@
     font-family:arial;
     text-align: justify;
     font-size: 17px;
-
 }
+
+#content img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 75%;
+    object-fit: contain;
+}
+
 
 #content h2 {
     text-align: center;
     color: gray;
-}
-
-#tinImage {
-    float: left;
-    padding-right: 50px;
 }
 
 .title  { text-align: center;
@@ -29,7 +32,7 @@
 
 #navbar ul {
     list-style-type: none;
-    margin: 0;
+    margin: 1;
     padding: 0;
     overflow: hidden;
     background-color: white;
