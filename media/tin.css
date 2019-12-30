@@ -10,7 +10,7 @@
     display: block;
     margin: auto;
     height: auto;
-    width: 75%;
+    width: 65%;
     object-fit: contain;
 }
 
@@ -75,7 +75,7 @@ p.signature {
 }
 
 img.img-floating-right {
-    float:right;
-    max-width:30%;
-    margin:0% 5%;
+    float: right;
+    max-width: 30%;
+    margin-left: 10% !important;
 }
