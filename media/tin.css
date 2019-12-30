@@ -73,3 +73,9 @@ p.signature {
 #myVideo {
     width: 60%;
 }
+
+#img.img-floating-right {
+    float:right;
+    max-width:30%;
+    margin:0% 5%
+}
