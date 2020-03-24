@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -477,12 +477,18 @@ footer .footer-below {
 
 .panel-info > .panel-heading {
 
-    color: #ffffff;
-    background-color: #{{ site.color.primary }};
-    border-color: #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background-color: #ffffff;
+    border-color: #ffffff;
 
 }
 
 .panel-info {
-    border-color: #{{ site.color.primary }};
+    border-color: #ffffff;
+}
+
+.panel-info > .panel-heading + .panel-collapse > .panel-body {
+
+    border-top-color: #ffffff;
+
 }
