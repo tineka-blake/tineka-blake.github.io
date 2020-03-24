@@ -1,0 +1,27 @@
+ <!-- Faq Section -->
+    <section id="faq">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2>FAQ</h2>
+            <hr>
+          </div>
+        </div>
+	<div class="panel-group" id="accordion">
+	  {% for faq in site.data.faqs %}
+	  
+	  <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-parent="#accordion" data-target="#{{ faq.faq-id }}">
+              <h4 class="panel-title accordion-toggle">
+		{{ faq.title }}
+	      </h4>	      
+            </div>
+            <div id="{{ faq.faq-id }}" class="panel-collapse collapse">
+              <div class="panel-body">{{ faq.description }}</div>
+            </div>
+	  </div>
+	  
+	  {% endfor %}
+	</div>	
+      </div>
+    </section>

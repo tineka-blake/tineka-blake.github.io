@@ -1,0 +1,14 @@
+---
+layout: default
+title: Dance Fit
+modal-id: 2
+#date: 2020-03-05
+img: dance_fit_icon.png
+alt: image-alt
+# project-date: March 2020
+# client: Start Bootstrap
+# category: Web Development
+description: These energetic and motivating classes are crafted to give you a fun and joyful way to exercise that improves your overall fitness as well as your mental and physical health. With easy to follow movements, and guidance from a qualified and experienced teacher, you will be moving away to tunes and grooves that your body cannot resist! We visit different dance themes over the weeks, from 1980's to Salsa! <br/> No previous experience of dance is necessary.<br><br/> Location - CURRENTLY ONLINE <br/> Time - 10:30-11:00 (CET) <br/> Upcoming Dates - 25-03, 01-04, 08-04, 15-04 ... <br/> Ages - 40+
+
+
+---

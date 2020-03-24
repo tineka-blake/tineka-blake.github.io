@@ -1,0 +1,60 @@
+# Site settings
+title: Tineka Blake
+author: Tineka Blake
+email: tineka.blake@gmail.com
+url: https://tineka-blake.github.io
+description: ""
+keywords: "your keywords, separated by commas"
+#skills: "Describe why you do it not what you do"
+meta_author: Blake Tineka
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 8b87d4 #80B3FF # about panel & top profile panel 
+  primary-rgb: "192,190,229" # hover over icon colour
+  secondary: 8b87d4 # 1) header bar panel 2) contact form, prices and classes header 3)  social media panel 
+  secondary-dark: 817dca #  extreme bottom (copyright) panel and click on top menu panel colour
+
+# Footer settings
+footer:
+  copyright: Tineka Blake
+  location: Tineka Blake
+  #social: Social Media
+  #credits: Tineka Blake
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagrafm, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/tinekablake/
+  #- title: facebook
+  #  url: 
+
+ #Postal address (add as many lines as necessary)
+address:
+   - line: Utrecht, The Netherlands
+   - line: tineka.blake@gmail.com
+   - line: (+31) 0630058917
+  
+# Credits content
+credits: '<b>Chamber of Commerce number:</b> 76093611<br> <b>IBAN:</b> NL37 ABNA 0863 1992 08'
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

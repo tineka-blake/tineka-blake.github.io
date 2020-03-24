@@ -1,0 +1,55 @@
+ <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Prices</h2>
+                    <hr> <!-- class="star-light"> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>
+		   <b>
+			NEW Online participants 
+                    </b>
+		    <br> - Introductory class*- €12.50
+		    <br> - 3x class card** (valid for 1 month) - €37.50
+		    <br> - 6x class card** (valid for 2 months) - €75.00
+                    <br> - 10x class card offer (valid for 3 months)** - €125.00
+                  </p>
+		
+                </div>
+                <div class="col-lg-4">
+
+                    <p> 
+		     <b>
+			Existing participants 
+                    </b>
+
+                     <br> - Introductory class- €12.50
+                     <br> - 10x class class card offer (valid for 3 months) - €125.00
+ 		    
+		   <b>
+			Private/group Yoga classes  
+                    </b>
+
+	            <b>
+			-Prices upon consultation  
+                    </b>
+	            </p>
+				
+		    <p> 
+			*Valid until 6th April 
+                        ** Customers will get a FULL refund for online classes not taken, if the Coronavirus pandemic clears up during a subscription!!
+ 	            </p> 
+
+                </div>
+                <!-- <div class="col-lg-8 col-lg-offset-2 text-center"> -->
+                <!--     <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline"> -->
+                <!--         <i class="fa fa-download"></i> Download Theme -->
+                <!--     </a> -->
+                <!-- </div> -->
+            </div>
+        </div>
+    </section>
