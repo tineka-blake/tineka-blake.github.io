@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
 # category: Web Development
-description: To my RnB queens (and divas!).... <br/> These classes have been designed to get you moving to new and old-skool RnB hits. From Beyoncé, Rihanna, J.Lo, Ciara, we may even throw in a bit of Usher and Chris Brown. Why wouldn't we?! This is a live class so you will guided by me in real-time, and you still get that positive personal feedback you deserve! Let's keep our spirits flying high and get down on the (kitchen) floor! <br/> The class is held at an intermediate level.<br><br/>  Day- Tuesdays <br/> Time - 20:00-21:00 (CET) <br/> Location - CURRENTLY ONLINE <br/> Upcoming Dates - 12-05, 19-05, 26-05, 05-06 ... <br/>
+description: To my RnB queens (and divas!).... <br/> These classes have been designed to get you moving to new and old-skool RnB hits. From Beyoncé, Rihanna, J.Lo, Ciara, we may even throw in a bit of Usher and Chris Brown. Why wouldn't we?! This is a live class so you will guided by me in real-time, and you still get that positive personal feedback you deserve! Let's keep our spirits flying high and get down on the (kitchen) floor! <br/> The class is held at an intermediate level.<br><br/>  Day- Tuesdays <br/> Time - 20:00-21:00 (CEST) <br/> Location - CURRENTLY ONLINE <br/> Upcoming Dates - 12-05, 19-05, 26-05, 05-06 ... <br/>
 
 
 ---
