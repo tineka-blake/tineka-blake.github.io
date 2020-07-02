@@ -8,7 +8,9 @@ alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
 # category: Web Development
-description: To my RnB queens (and divas!).... <br/> These classes have been designed to get you moving to new and old RnB hits. Beyoncé, Rihanna and more, we may even throw in a bit of Usher and Chris Brown. Why wouldn't we?! This class is all about having fun, enjoying letting yourself loose with the music, and also learning playful choreography!  <br/> The class is held at an intermediate level.<br><br/>  Day- Tuesdays <br/> Time - 20:00-21:00 (CEST) <br/> Location - <br/> CURRENTLY OUTSIDE <br/> Basketball court at Balkstraat 31 <br/>Upcoming Dates - 07-07, 14-07, 21-07. <br/>
+description: To my RnB queens (and divas!).... <br/> These classes have been designed to get you moving to new and old RnB hits. Beyoncé, Rihanna and more, we may even throw in a bit of Usher and Chris Brown. Why wouldn't we?! This class is all about having fun, enjoying letting yourself loose with the music, and also learning playful choreography!  <br/> The class is held at an intermediate level.<br><br/>  Day- Tuesdays <br/> Time - 20:00-21:00 <br/> <br/> Location - CURRENTLY OUTSIDE <br/> Basketball court at Balkstraat 31, Utrecht <br/>Upcoming Dates - 07-07, 14-07, 21-07. <br/>
+
+
 
 
 ---
