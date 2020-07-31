@@ -8,7 +8,7 @@ alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
 # category: Web Development
-description: These energetic and motivating classes are crafted to give you a fun and joyful way to exercise that improves your overall fitness as well as your mental and physical health. With easy to follow movements, and guidance from a qualified and experienced teacher, you will be moving away to tunes and grooves that your body cannot resist! We visit different dance themes over the weeks, from 1980's to Salsa! <br/> No previous experience of dance is necessary.<br><br/> Location - CURRENTLY OUTSIDE <br/> Basketball court at Balkstraat 31, Utrecht <br/>Time - 10:30-11:30 <br/> Upcoming Dates - 08-07, 14-07, 21-07. <br/>
+description: These energetic and motivating classes are crafted to give you a fun and joyful way to exercise that improves your overall fitness as well as your mental and physical health. With easy to follow movements, and guidance from a qualified and experienced teacher, you will be moving away to tunes and grooves that your body cannot resist! We visit different dance themes over the weeks, from 1980's to Salsa! <br/> No previous experience of dance is necessary.<br><br/> Location - CURRENTLY OUTSIDE <br/> Basketball court at Balkstraat 31, Utrecht <br/>Time - 10:30-11:30 <br/> Upcoming Dates - 02-09, 09-08, 16-08... <br/>
 
 
 ---
