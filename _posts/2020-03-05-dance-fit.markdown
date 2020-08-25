@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Dance RnB
+title: Dance Fit!
 modal-id: 1
 date: 2020-03-15
-img: dance_rnb_icon.png
+img: dance_fit_icon.png
 alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
