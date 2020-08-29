@@ -4,9 +4,12 @@
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
+    {% include about.html %}
     {% include portfolio_grid.html %}
+    {% include schedule.html %}
+    {% include faq.html %}
+    {% include testimonials.html %}
     {% include prices.html %}
-
     {% if site.contact == "static" %}
     {% include contact_static.html %}
     {% elsif site.contact == "disqus" %}
@@ -14,8 +17,6 @@
     {% else %}
     {% include contact.html %}
     {% endif %}
-    {% include about.html %}
-    {% include faq.html %}
 
     {% include footer.html %}
     {% include modals.html %}

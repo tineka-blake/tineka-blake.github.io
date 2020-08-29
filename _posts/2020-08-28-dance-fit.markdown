@@ -1,0 +1,13 @@
+---
+layout: default
+title: Dance Fit!
+modal-id: 1
+date: 2020-08-28
+img: dance_fit_icon.png
+alt: image-alt
+description: Do you love dancing to music? Do you want to feel energised and invigorated? This is for you!!<br><br> Dance Fit has been designed to get you moving to a variety of rhythms and styles of music including, Salsa, Street Dance, Afrobeats, 70s & 80s & Modern Jazz! This class is all about having fun, enjoying letting yourself loose with the music, whilst also learning playful choreography!<br><br> <b>Benefits:</b><ul><li> You will experience an overall improvement of mental, as well as physical health (guaranteed!)</li><li> you will build self-confidence and self-esteem</li><li> you will be able to socialise and interact with others</li><li>you will be in an English speaking environment</li><li>you will be supported in non-judgemental atmosphere</li><li>you will learn about lots of new moves & music!</li></ul> There are multiple classes held during the week. <br><br>We are currently dancing outdoors! When the weather is not suitable, we dance at our indoor location. All classes are socially distanced at a minimum distance of 1.5m.<br> <b>Outdoor Location:</b> <a href="https://goo.gl/maps/AZD6XqLQBJx4pVRN7">Balkstraat 31, Utrecht (Basketball court)</a><br> <b>Indoor location:</b> <a href="https://goo.gl/maps/bHJrBv8n2Uzu16xTA">Buurcentrum De Leeuw, Utrecht</a>
+
+
+
+
+---
