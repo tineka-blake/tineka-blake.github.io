@@ -1,0 +1,17 @@
+cd tineka-blake.github.io/
+bundle exec jekyll serve
+git commit -am " yoga"
+git push
+
+Step 1: CD to directory where websit is
+Step 2: build website locally
+Step 3: Comment on changes
+Step 4: Push new website online (requires log in & password) 
+
+If you generate new files 
+ 
+git add .
+git status
+ 
+git add . (means to add new file to commit)
+git status (git status checks the status of the commit) 
