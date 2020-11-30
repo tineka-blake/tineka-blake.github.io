@@ -2,7 +2,7 @@
 
 cd tineka-blake.github.io/
 bundle exec jekyll serve
-git commit -am " yoga"
+git commit -am "yoga"
 git push
 
 Step 1: CD to directory where websit is
