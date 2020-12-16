@@ -1,13 +1,13 @@
 ---
 layout: default
-title: One-On-One Coaching
+title: Private Yoga
 modal-id: 3
 date: 2020-08-26
-img: coaching_icon.jpg 
+img: private_yoga_icon.png
 alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
 # category: Web Development
-description: Are you wondering what you really want to do with your life? Do you know what you want, but are struggling to get there? Do you think you could maybe get there with some guidance and a good cup of tea?<br>Coaching could be for you.<br>It is possible to find and thrive in a career that you love. It is possible not to be crippled by the fear of failure or judgement. It is possible to gain control over your mental health. It is possible to maintain a healthy diet and to pick lifestyle choices that serves you.<br><br>Sound interesting? Contact me and we'll chat, no obligations. Let's see if we hit it off. It could be the opportunity that you have been waiting for to literally change your life. Let's talk!
+description: Private yoga sessions are highly recommended if you would like to start with yoga or deepen and develop your practice. During our time together you will be able to; <br><br> + work on a specific area of your body that is causing discomfort <br> + to learn how to use yoga to better manage stress <br> + explore poses and breathing exercises that will make you feel more energised <br> + to practise at a pace and time that is convenient for you... <br><br> Location - at your preferred place. Private Yoga lessons are usually at the client's home. Otherwise, it is possible to arrange an alternative location. Please enquire about the possibilities. 
 
 ---
