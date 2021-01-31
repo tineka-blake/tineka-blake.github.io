@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Get On With It</title>
+    <title>Get On With It with Tineka Blake</title>
     <itunes:author>Tineka Blake</itunes:author>
     <link>https://tineka-blake.github.io/</link>
     <description>
@@ -9,7 +9,7 @@
     </description>
     <email>tineka.blake@gmail.com</email>
     <itunes:owner>
-      <itunes:name>Get On With It</itunes:name>
+      <itunes:name>Get On With It with Tineka Blake</itunes:name>
       <itunes:email>tineka.blake@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image
