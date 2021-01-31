@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Get On With It</title>
+    <link>https://tineka-blake.github.io/</link>
+    <description>The Podcast Description. Visit:<![CDATA[
+     <a href="https://tineka-blake.github.io/">tineka-blake.github.io</a> ]]></description>
+    <itunes:owner>
+      <itunes:name>Get On With It</itunes:name>
+      <itunes:email>tineka.blake@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://tineka-blake.github.io/podcast/podcast_artwork.png"
+    />
+    <language>en-gb</language>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health" />
+    </itunes:category></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <pubDate>Sun, 31 Jan 2021 20:31:43 CET</pubDate>
+    <lastBuildDate>Sun, 31 Jan 2021 20:31:43 CET</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+       <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>Career Change</title>
+      <description>
+        Tips for changing your career. INSERT show notes.
+      </description>
+      <enclosure
+        length="1385" 
+        type="audio/mp3" 
+        url="https://tineka-blake.github.io/podcast/podcast_1_careerchange.mp3"
+      />
+      <pubDate>Sun, 31 Jan 2021 20:31:43 CET</pubDate>
+      <itunes:duration>1385</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>https://tineka-blake.github.io/podcast/</guid>
+    </item>
+  </channel>
+</rss>
