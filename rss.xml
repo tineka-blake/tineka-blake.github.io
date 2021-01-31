@@ -2,8 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Get On With It</title>
+    <author>Tineka Blake</author>
     <link>https://tineka-blake.github.io/</link>
-    <description>The Podcast Description</description>
+    <description>The Channel Podcast Description</description>
+    <email>tineka.blake@gmail.com</email>
     <itunes:owner>
       <itunes:name>Get On With It</itunes:name>
       <itunes:email>tineka.blake@gmail.com</itunes:email>
@@ -34,7 +36,7 @@
       <pubDate>Sun, 31 Jan 2021 12:31:43 CET</pubDate>
       <itunes:duration>1385</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <guid>https://tineka-blake.github.io/podcast/</guid>
+      <guid>1</guid>
     </item>
   </channel>
 </rss>
