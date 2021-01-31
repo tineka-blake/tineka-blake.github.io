@@ -4,7 +4,10 @@
     <title>Get On With It</title>
     <itunes:author>Tineka Blake</itunes:author>
     <link>https://tineka-blake.github.io/</link>
-    <description>The Channel Podcast Description</description>
+    <description>
+      <![CDATA[Here's to getting on with life, or simply just figuring it out! This podcast contains real talk, real stories and real life! Here, we put in the time to discuss the very things that are holding you back from enjoying your life and achieving your full potential.
+          <a href="https://tineka-blake.github.io">Tineka Blake</a>.]]>
+    </description>
     <email>tineka.blake@gmail.com</email>
     <itunes:owner>
       <itunes:name>Get On With It</itunes:name>
@@ -24,9 +27,14 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
-      <title>Career Change</title>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_artwork.png"
+	  />
+      <title>Here's How To Successfully Change Your Career</title>
       <description>
-        Tips for changing your career. INSERT show notes.
+        This episode is for your if you are thinking about changing or starting a new career. Whether that in employment or starting your own business! Here I share the mindset required and actionable tips that you can employ to make yourself succeed on your journey. 
+	Harvard Busines Review Article: https://hbr.org/2002/12/how-to-stay-stuck-in-the-wrong-career
+	Books mentioned: War of Art, by Steven Pressfield, 2002 - recommend chapters 1 and 2. Tiny Habits by BJ Fogg 2019
       </description>
       <enclosure
           length="1385" 
