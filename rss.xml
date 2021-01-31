@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Get On With It</title>
-    <author>Tineka Blake</author>
+    <itunes:author>Tineka Blake</itunes:author>
     <link>https://tineka-blake.github.io/</link>
     <description>The Channel Podcast Description</description>
     <email>tineka.blake@gmail.com</email>
