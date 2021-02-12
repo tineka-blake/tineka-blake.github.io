@@ -31,7 +31,8 @@
       <title>How To Successfully Change Your Career</title>
       <description>
         This episode is for you, if you are thinking about changing or starting a new career. Whether that in employment or starting your own business. Here I share the mindset required and actionable tips that you can employ to make yourself succeed on your journey. 
-	Show notes and references 1. Harvard Busines Review Article: https://hbr.org/2002/12/how-to-stay-stuck-in-the-wrong-career. 2. Book: War of Art, by Steven Pressfield, 2002 (Chapters 1 and 2). 3.Tiny Habits by BJ Fogg 2019
+	Show notes and references 1. Harvard Busines Review Article: https://hbr.org/2002/12/how-to-stay-stuck-in-the-wrong-career. 2. Book: War of Art, by Steven Pressfield, 2002 (Chapters 1 and 2). 3.Tiny Habits by BJ Fogg 2019.
+	Find me on Instagram: @tinekablake. Or visit my Website: tineka-blake.github.io
       </description>
       <enclosure
           length="1385" 
@@ -42,6 +43,28 @@
       <itunes:duration>1385</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <guid>1</guid>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_artwork.png"
+	  />
+      <title>How To Use Habits to Achieve Your Goals</title>
+      <description>
+        We all love that feeling of success when you reach or even exceed your goal. In this episode, I talk with Sandra Chuma, a certified 'Tiny Habits' Coach to discuss how you can use your daily habitual behaviour to keep you on track for your goals. So whether you are struggling to get out of bed or sometimes find yourself with your hand in the cookie jar. Leave the negative self-talk behind and celebrate the small feats that you acheive everyday! 
+     Show notes and references: 1. BJ Fogg, Tiny Habits, 2019. 2. Rangan Chatterjee - Feel Better in 5, 2019.
+     Find Sanda Chuma on Instagram: @sandra.chuma Or on her website: www.sandrachuma.com
+      </description>
+      <enclosure
+          length="1385" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_2_with_sandra_chuma.mp3"
+	  />
+      <pubDate>Fri, 12 Jan 2021 08:15:00 CET</pubDate>
+      <itunes:duration>3304</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>2</guid>
     </item>
   </channel>
 </rss>
