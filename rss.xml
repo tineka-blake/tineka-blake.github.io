@@ -66,5 +66,25 @@
       <itunes:explicit>false</itunes:explicit>
       <guid>2</guid>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
+	  />
+      <title>How To Get Over The Fear of Judgement</title>
+      <description>
+        If you fear being judged for something that you want to, or if you find yourself caring too much what other people think of you. This episode is definitely for you! We move past the saying 'what other people say about you has nothing to do with you' and explain and uncover the real reasons why you feel scared about doing things and how you can implement change so that you can get on with what you want to do! Find me on Instagram: @tinekablake. Or visit my Website: tineka-blake.github.io
+      </description>
+      <enclosure
+          length="1035" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_3_how_to_get_over_the_fear_of_judgement.mp3"
+	  />
+      <pubDate>Fri, 19 Jan 2021 14:55:00 CET</pubDate>
+      <itunes:duration>1035</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>3</guid>
+    </item>
   </channel>
 </rss>
