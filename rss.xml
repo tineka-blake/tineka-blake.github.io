@@ -20,7 +20,7 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <pubDate>Sun, 31 Jan 2021 17:10:43 CET</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2021 17:10:43 CET</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2021 17:10:43 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
@@ -61,7 +61,7 @@
           type="audio/mp3" 
           url="https://tineka-blake.github.io/podcast/episode_2_with_sandra_chuma.mp3"
 	  />
-      <pubDate>Fri, 12 Jan 2021 08:15:00 CET</pubDate>
+      <pubDate>Fri, 12 Feb 2021 08:15:00 CET</pubDate>
       <itunes:duration>3304</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <guid>2</guid>
@@ -81,7 +81,7 @@
           type="audio/mp3" 
           url="https://tineka-blake.github.io/podcast/episode_3_how_to_get_over_the_fear_of_judgement.mp3"
 	  />
-      <pubDate>Fri, 19 Jan 2021 14:55:00 CET</pubDate>
+      <pubDate>Fri, 19 Feb 2021 14:55:00 CET</pubDate>
       <itunes:duration>1035</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <guid>3</guid>
