@@ -72,7 +72,7 @@
       <itunes:image
 	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
 	  />
-      <title>How To Get Over The Fear of Judgement</title>
+      <title>Get Over The Fear of Judgement</title>
       <description>
         If you fear being judged for something that you want to, or if you find yourself caring too much what other people think of you. This episode is definitely for you! We move past the saying 'what other people say about you has nothing to do with you' and explain and uncover the real reasons why you feel scared about doing things and how you can implement change so that you can get on with what you want to do! Find me on Instagram: @tinekablake. Or visit my Website: tineka-blake.github.io
       </description>
@@ -85,6 +85,27 @@
       <itunes:duration>1035</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <guid>3</guid>
+    </item>
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
+	  />
+      <title>Building Self Confidence</title>
+      <description>
+        Self-Confidence is something that you can build! So take a listen, as I give you a behaviour model which will change your mind about how you think about 'having' self confidence. It is a model that based on Cognitive Behavioural Therapy and various Self-Coaching models. Very important and potentially life changing, if you can take on this new perspective! This podcast is also a great follow on the 'Get Over The Fear of Judgement' episode, so make sure you listen up to that one beforehand! 
+        To get in touch with me: Find me on Instagram: @tinekablake. Email Me: tineka.blake@gmail.com or visit my Website: tineka-blake.github.io
+      </description>
+      <enclosure
+          length="1035" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_4_building_self_confidence.mp3"
+	  />
+      <pubDate>Thu, 4 March 2021 14:50:00 CET</pubDate>
+      <itunes:duration>1389</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>4</guid>
     </item>
   </channel>
 </rss>
