@@ -107,5 +107,46 @@
       <itunes:explicit>false</itunes:explicit>
       <guid>4</guid>
     </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
+	  />
+      <title>Building Self-Confidence</title>
+      <description>
+        Self-Confidence is something that you can build! So take a listen, as I give you a behaviour model which will change your mind about how you think about 'having' self confidence. It is a model that based on Cognitive Behavioural Therapy and various Self-Coaching models. Very important and potentially life changing, if you can take on this new perspective! This podcast is also a great follow on the 'Get Over The Fear of Judgement' episode, so make sure you listen up to that one beforehand! 
+        To get in touch with me: Find me on Instagram: @tinekablake. Email Me: tineka.blake@gmail.com or visit my Website: tineka-blake.github.io
+      </description>
+      <enclosure
+          length="1035" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_5_experiencing_cancer_with_maria_honeker.mp3"
+	  />
+      <pubDate>Thu, 4 March 2021 14:50:00 CET</pubDate>
+      <itunes:duration>1389</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>4</guid>
+    </item>
+        <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
+	  />
+      <title>Experiencing Cancer with Maria Honeker</title>
+      <description>
+        Can you imagine what it's like to be diagnosed with colon cancer and to realise the tumor has been developing inside of you for 5 years? In this episode, I talk with Maria Honeker, whos experience was exactly that. She tells us what it was like from diagnosis, treatment to recovery. This one isn't a story to miss! To visit Maria Honeker's website: https://www.mariahoneker.com/my-story. Follow Maria on Instagram: @holisticlivingwithmaria
+      </description>
+      <enclosure
+          length="1035" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_5_experiencing_cancer_with_maria_honeker.mp3"
+	  />
+      <pubDate>Thu, 18 March 2021 13:22:00 CET</pubDate>
+      <itunes:duration>1389</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>5</guid>
+    </item>
   </channel>
 </rss>
