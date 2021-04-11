@@ -127,5 +127,26 @@
       <itunes:explicit>false</itunes:explicit>
       <guid>5</guid>
     </item>
+     <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image
+	  href="https://tineka-blake.github.io/podcast/podcast_art.png"
+	  />
+      <title>Anxiety</title>
+      <description>
+        Everything you will want to hear about overcoming anxiety! It is possible!! It all just takes a bit of work. This episode goes along with the workbook that you can find here: http://tineka-blake.github.io/podcast to help you do the work! 
+        Also I highly recommend the book 'When Panic Attacks' by David Burns which is filled of exercises that will also help you do the work. You can do this!         
+      </description>
+      <enclosure
+          length="1859" 
+          type="audio/mp3" 
+          url="https://tineka-blake.github.io/podcast/episode_6_anxiety.mp3"
+	  />
+      <pubDate>Sun, 11 April 2021 13:22:00 CET</pubDate>
+      <itunes:duration>1859</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid>6</guid>
+    </item>
   </channel>
 </rss>
