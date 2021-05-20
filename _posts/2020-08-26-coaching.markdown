@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coach & Yoga
+title: Private Yoga
 modal-id: 3
 date: 2020-08-26
 img: private_yoga_icon.png
@@ -8,5 +8,8 @@ alt: image-alt
 # project-date: March 2020
 # client: Start Bootstrap
 # category: Web Development
-description: Are you constantly feeling tired? Stressed out? Want to gain your energy back?<br><br> I've been there also. I know how frustrating it can be and how important it is to look at the WHOLE picture. We will look at the following areas and more:<br> - How and when you exercise (if you do)? <br> - What types of foods you are eating, at what time and how often? <br> - What are your daily habits and routines? <br> - How is your mental health going at the moment? <br><br> Because together, it all adds up to how you feel. And you really do deserve to feel amazing!! <br><br> Together we will explore what works for YOU, your body and mind, your schedule and time you can really commit to really achieve (and stick to!!) the lifestyle that you truly desire and deserve! <br><br> Contact me via my contact form for a chat and I will see if I can help you, or what direction I can point you in, otherwise. 
+description: Private yoga sessions are highly recommended if you to; <br> <br> + work on a specific area of your body <br> + reduce your stress levels <br> + learn deep relaxation and improve your sleep <br> + improve your posture <br> + increase flexibility, immunity and digestion <br> + practise at a pace and time that is convenient for you... <br><br>Location - at your preferred place. In the comfort of your own home or online. <br> Sessions are conducted according to the RIMV guidelines. <br><br> If you thinking about whether private yoga lessons are for you, then contact me using the contact form, and we can decide together if private sessions are what you need, and if we are a good fit!  
 ---
+
+
+
