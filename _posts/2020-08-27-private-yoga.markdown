@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coach & Yoga
+title: Mindful Yoga
 modal-id: 2
 date: 2020-08-27
 img: yoga_icon.jpg
